@@ -1,0 +1,54 @@
+.number{
+color: mediumseagreen;
+border-radius:38%; 
+text-align: center;
+background-color:  #E6E6FA;  
+cursor:pointer;
+text-decoration: none;
+width:32px; 
+height:39px;
+outline: none;
+user-select: none;
+border: none;
+padding:0;
+margin: 0 0 5px 0;
+}
+
+.signs{
+color:paleturquoise   ;
+border-radius:39%; 
+text-align: center;
+background-color:#FFA07A;  
+cursor:pointer;
+text-decoration: none;
+width:34px; 
+height:41px;
+outline: none;
+user-select: none;
+border: none;
+padding:0;
+margin: 0 0 5px 0;
+}
+
+.clear {
+color:#6A5ACD;
+border-radius:9%; 
+text-align: center;
+background-color: #F0E68C;  
+cursor:pointer;
+text-decoration: none;
+width:20px; 
+height:22px;
+outline: none;
+user-select: none;
+border: none;
+padding:0;
+margin: 0 0 5px 0;
+}
+
+
+table {
+background-color:#FFF0F5;  
+
+}
+
